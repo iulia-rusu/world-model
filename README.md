@@ -1,0 +1,1 @@
+This project investigates the concept of World Models using simple environments like cartpole_swingup and aims to scale up both architecture and environment complexity.
